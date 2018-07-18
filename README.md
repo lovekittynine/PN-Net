@@ -11,4 +11,4 @@ Because in the procedure of optimization,there is always a gradient explode and 
 # testing on the other two subsets Notredame and Yosemite
 # results
 ### Notredame ROC
-![image] (https://github.com/lovekittynine/PN-Net/blob/master/%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/pnsoft_loss_roc_notredame.png)
+![image](https://github.com/lovekittynine/PN-Net/blob/master/%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/pnsoft_loss_roc_notredame.png)

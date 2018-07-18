@@ -1,5 +1,5 @@
 # PN-Net
-## reproduce paper PN-Net:Conjoined Triplet Deep Netwprk for Learning Local Image Descriptor
+## reproduce paper PN-Net:Conjoined Triplet Deep Network for Learning Local Image Descriptor
 # 有2点需要声明
 # There are two important detail needed to be clarified
 ## 1 In author raw Lua code work ,I couldn't explictly find there is a batchnormlization.Maybe I dont konw how to use Lua and Torch
